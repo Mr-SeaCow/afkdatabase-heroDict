@@ -31,6 +31,6 @@
   "siskill20unlocks": "[+20 Unlocks] Thali is immune to control effects when her health falls below 50%.",
   "siskill30unlocks": "[+30 Unlocks] When in a frenzy, Thali’s damage increases, ignoring her enemies health proportions.",
   "furniturename": "Heart of Fire",
-  "furniture3description": "*[3/9 Mythic Pieces] Each time Thali enters a frenzy, all non-summoned allies have their Attack Ratings increased by 20% and their Haste increased by 20 points for 7 seconds.",
-  "furniture9description": "*[9/9 Mythic Pieces] When Thali receives fatal damage when in a frenzy, she will maintain the minimum amount of health and postpone her own death. Once this effect has been triggered, Thali’s health will no longer change, and as soon as her frenzy effect ends, she immediately dies."
+  "furniture3description": "[3/9 Mythic Pieces] Each time Thali enters a frenzy, all non-summoned allies have their Attack Ratings increased by 20% and their Haste increased by 20 points for 7 seconds.",
+  "furniture9description": "[9/9 Mythic Pieces] When Thali receives fatal damage when in a frenzy, she will maintain the minimum amount of health and postpone her own death. Once this effect has been triggered, Thali’s health will no longer change, and as soon as her frenzy effect ends, she immediately dies."
 }

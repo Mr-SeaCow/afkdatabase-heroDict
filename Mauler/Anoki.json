@@ -30,7 +30,7 @@
   "siskill10unlocks": "[+10 Unlocks] This ability raises Anoki’s Attack Rating by 8% for every non-summoned ally that is standing near him and raises his Defense Rating by 15% for every enemy standing near him.",
   "siskill20unlocks": "[+20 Unlocks] Excluding summoned entities, when there are no less than a total of 3 characters near Anoki (includes enemies and allies), Anoki recovers 5% of his max health per second and becomes immune to control abilities.",
   "siskill30unlocks": "[+30 Unlocks] This ability raises Anoki’s Attack Rating by 12% for every non-summoned ally that is standing near him and raises his Defense Rating by 20% for every enemy standing near him.",
-  "furniturename": "===Blood Guard's Honor===",
-  "furniture3description": "*[3/9 Mythic Pieces] For every 15 seconds after the battle begins, Anoki additionally uses his \"Horn of War\" ability 1 time, until it is used a total of 2 times per battle. Each time the ability is used, the shield value will be reduced to 50% of the previous shield's value.",
-  "furniture9description": "*[9/9 Mythic Pieces] For every 15 seconds after the battle begins, Anoki additionally uses his \"Horn of War\" ability 1 time, until it is used a total of 3 times per battle. Each time the ability is used, the shield value will be reduced to 70% of the previous shield's value."
+  "furniturename": "Blood Guard's Honor",
+  "furniture3description": "[3/9 Mythic Pieces] For every 15 seconds after the battle begins, Anoki additionally uses his \"Horn of War\" ability 1 time, until it is used a total of 2 times per battle. Each time the ability is used, the shield value will be reduced to 50% of the previous shield's value.",
+  "furniture9description": "[9/9 Mythic Pieces] For every 15 seconds after the battle begins, Anoki additionally uses his \"Horn of War\" ability 1 time, until it is used a total of 3 times per battle. Each time the ability is used, the shield value will be reduced to 70% of the previous shield's value."
 }

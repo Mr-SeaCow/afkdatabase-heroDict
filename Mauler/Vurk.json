@@ -23,14 +23,14 @@
   "skill2lvl4": "For every poisoned enemy that this ability deals damage against, Vurk shall recover an additional 40 energy.",
   "skill3lvl3": "Poisoned enemies lose health equal to 70% of Vurk's Attack Rating per second.",
   "skill4lvl3": "Enemies are stunned for 5 seconds.",
-  "siname": "Shadow Stinger===",
+  "siname": "Shadow Stinger",
   "sidescription": "A crossbow, accurate and light. Perfect for a skulking kill or cunning ambush.",
-  "siskillname": "===Skill: Madness===",
+  "siskillname": "Skill: Madness",
   "siskilldescription": "Vurk’s “Mania” ability now fires 3 crossbow bolts per attack, however the additional bolts will deal 80% damage.",
-  "siskill10unlocks": "*[+10 Unlocks] Additional crossbow bolt damage increased to 100% damage.",
-  "siskill20unlocks": "*[+20 Unlocks] Additional crossbow bolt damage increased to 120% damage.",
-  "siskill30unlocks": "*[+30 Unlocks] The “Mania” ability now fires 5 crossbow bolts per attack.",
-  "furniturename": "===Poisonous Death===",
-  "furniture3description": "*[3/9 Mythic Pieces] Vurk's Normal Attacks and \"Mania\" ability deal 35% more damage to enemies that have been poisoned by his own abilities.",
-  "furniture9description": "*[9/9 Mythic Pieces] Prolongs the duration of time an enemy is poisoned (only affects Vurk's poison) for 1 second if they are dealt damage from Vurk's Normal Attack or his \"Mania\" ability."
+  "siskill10unlocks": "[+10 Unlocks] Additional crossbow bolt damage increased to 100% damage.",
+  "siskill20unlocks": "[+20 Unlocks] Additional crossbow bolt damage increased to 120% damage.",
+  "siskill30unlocks": "[+30 Unlocks] The “Mania” ability now fires 5 crossbow bolts per attack.",
+  "furniturename": "Poisonous Death",
+  "furniture3description": "[3/9 Mythic Pieces] Vurk's Normal Attacks and \"Mania\" ability deal 35% more damage to enemies that have been poisoned by his own abilities.",
+  "furniture9description": "[9/9 Mythic Pieces] Prolongs the duration of time an enemy is poisoned (only affects Vurk's poison) for 1 second if they are dealt damage from Vurk's Normal Attack or his \"Mania\" ability."
 }

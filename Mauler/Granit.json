@@ -31,6 +31,6 @@
   "siskill20unlocks": "[+20 Unlocks] Each time Granit uses the ability “Sand Vortex”, his Energy recovery rate is increased by 20%. This effect can be stacked 5 times.",
   "siskill30unlocks": "[+30 Unlocks] At the start of battle, Granit marks all enemies with a mark of Petrification.",
   "furniturename": "Aftershock",
-  "furniture3description": "*[3/9 Mythic Pieces] When the shield provided by Earthen Resilience is reset, Granit’s next Normal Attack shall be strengthened, the attack’s area of effect is increased, and enemies are dealt 240% damage.",
-  "furniture9description": "*[9/9 Mythic Pieces] The strengthened Normal Attack now allows Granit to additionally steal 100 Accuracy points and 10 Haste points for 6 seconds from the enemies that are dealt damage."
+  "furniture3description": "[3/9 Mythic Pieces] When the shield provided by Earthen Resilience is reset, Granit’s next Normal Attack shall be strengthened, the attack’s area of effect is increased, and enemies are dealt 240% damage.",
+  "furniture9description": "[9/9 Mythic Pieces] The strengthened Normal Attack now allows Granit to additionally steal 100 Accuracy points and 10 Haste points for 6 seconds from the enemies that are dealt damage."
 }

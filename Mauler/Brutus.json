@@ -27,9 +27,9 @@
   "sidescription": "A weapon so named because anything is weak against it.",
   "siskillname": "Upsurge",
   "siskilldescription": "Restores 15% of Brutus’ max health after the ability “Last Grasp” is used.",
-  "siskill10unlocks": "*[+10 Unlocks] 30% of max HP is restored.",
-  "siskill20unlocks": "*[+20 Unlocks] Last Gasp is extended for 1 second.",
-  "siskill30unlocks": "*[+30 Unlocks] Once the effect of the ability \"Last Gasp\" have ceased Brutus receives an additional shield that is able to mitigate damage equal to 50% of his max health, which lasts for 5 seconds.",
+  "siskill10unlocks": "[+10 Unlocks] 30% of max HP is restored.",
+  "siskill20unlocks": "[+20 Unlocks] Last Gasp is extended for 1 second.",
+  "siskill30unlocks": "[+30 Unlocks] Once the effect of the ability \"Last Gasp\" have ceased Brutus receives an additional shield that is able to mitigate damage equal to 50% of his max health, which lasts for 5 seconds.",
   "furniturename": "Warrior's Resilience",
   "furniture3description": "[3/9 Mythic Pieces] The duration of the ability \"Last Gasp\" is extended by 2 seconds.",
   "furniture9description": "[9/9 Mythic Pieces] The ability \"Last Gasp\" is extended by 2 seconds for each non-summoned enemy that dies before or during the use of it."

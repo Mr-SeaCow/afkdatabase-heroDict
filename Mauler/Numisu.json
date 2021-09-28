@@ -27,10 +27,10 @@
   "sidescription": "A mask that acts as a window to another world.",
   "siskillname": "Totem Master",
   "siskilldescription": "At the beginning of the battle Numisu sets down an offensive totem at center of the battlefield.",
-  "siskill10unlocks": "*[+10 Unlocks] At the beginning of the battle Numisu sets down a rejuvenating totem behind his own team’s backline.",
-  "siskill20unlocks": "*[+20 Unlocks] The health of Numisu’s totems is increased by 40%.",
-  "siskill30unlocks": "*[+30 Unlocks] The health of Numisu’s totems is increased by 100%.",
-  "furniturename": "===Power of Faith===",
-  "furniture3description": "*[3/9 Mythic Pieces] Ultimate \"Voodoo Blessing\" additionally heals up to 2 summoned totems, which all take on their normal effects.",
-  "furniture9description": "*[9/9 Mythic Pieces] Numisu's ultimate \"Voodoo Blessing\" additionally heals the weakest 1 unhealed allies, as well as up to 4 of his totems."
+  "siskill10unlocks": "[+10 Unlocks] At the beginning of the battle Numisu sets down a rejuvenating totem behind his own team’s backline.",
+  "siskill20unlocks": "[+20 Unlocks] The health of Numisu’s totems is increased by 40%.",
+  "siskill30unlocks": "[+30 Unlocks] The health of Numisu’s totems is increased by 100%.",
+  "furniturename": "Power of Faith",
+  "furniture3description": "[3/9 Mythic Pieces] Ultimate \"Voodoo Blessing\" additionally heals up to 2 summoned totems, which all take on their normal effects.",
+  "furniture9description": "[9/9 Mythic Pieces] Numisu's ultimate \"Voodoo Blessing\" additionally heals the weakest 1 unhealed allies, as well as up to 4 of his totems."
 }

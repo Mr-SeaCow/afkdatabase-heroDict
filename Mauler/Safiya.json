@@ -26,9 +26,9 @@
   "sidescription": "A large scepter with a radiant design symbolizing absolute power.",
   "siskillname": "Arcane Power",
   "siskilldescription": "1% of Safiya’s total damage output is converted into her attack rating. The attack rating can be increased up to a total of 140%",
-  "siskill10unlocks": "*[+10 Unlocks] 2% of Safiya’s total damage output is converted into her attack rating.",
-  "siskill20unlocks": "*[+20 Unlocks] 3% of Safiya’s total damage output is converted into her attack rating.",
-  "siskill30unlocks": "*[+30 Unlocks] Safiya will use “Scattered Bolt” instead of normal attacks once the attack rating increase has reached its maximum percentage.",
+  "siskill10unlocks": "[+10 Unlocks] 2% of Safiya’s total damage output is converted into her attack rating.",
+  "siskill20unlocks": "[+20 Unlocks] 3% of Safiya’s total damage output is converted into her attack rating.",
+  "siskill30unlocks": "[+30 Unlocks] Safiya will use “Scattered Bolt” instead of normal attacks once the attack rating increase has reached its maximum percentage.",
   "furniturename": "Harmonized Power",
   "furniture3description": "[3/9 Mythic Pieces] Duration of the \"Spectral Disruption\" in increased by 15 seconds.",
   "furniture9description": "[9/9 Mythic Pieces] The focusing stage of the ultimate ability \"Falling Sun\" is sped up by 40% while \"Spectral Disruption\" is still present on the battlefield."

@@ -27,10 +27,10 @@
   "sidescription": "The axes used by Khasos to fell a Mauler chieftain in ritual combat.",
   "siskillname": "Precision",
   "siskilldescription": "Increases the chance of Khasos catching his battle axe when using his “Throwing Axe” ability by 75%. After catching the axe Khasos will then immediately use his “Throwing Axe” ability again, however the chance to catch the axe again will then be reduced by 25% up until Khasos is no longer able to catch it and the ability is reset.",
-  "siskill10unlocks": "*[+10 Unlocks] Chance to catch axe increased to 80%.",
-  "siskill20unlocks": "*[+20 Unlocks] 30% of axes damage is converted into health.",
-  "siskill30unlocks": "*[+30 Unlocks] Chance to catch axe increased to 100%.",
-  "furniturename": "===Almighty Warrior===",
-  "furniture3description": "*[3/9 Mythic Pieces] When positioned on the backline, each living frontline ally increases Khasos' Crit Amplification by 25 points. When positioned on the frontline, each living backline ally reduces the damage Khasos receives by 22%.",
-  "furniture9description": "*[9/9 Mythic Pieces] Within 5 seconds of Khasos using his Ultimate ability, the increased attribute effects of the abilities \"Concentration\" and \"Almighty Warrior\" shall become active, ignoring all prior requirements."
+  "siskill10unlocks": "[+10 Unlocks] Chance to catch axe increased to 80%.",
+  "siskill20unlocks": "[+20 Unlocks] 30% of axes damage is converted into health.",
+  "siskill30unlocks": "[+30 Unlocks] Chance to catch axe increased to 100%.",
+  "furniturename": "Almighty Warrior",
+  "furniture3description": "[3/9 Mythic Pieces] When positioned on the backline, each living frontline ally increases Khasos' Crit Amplification by 25 points. When positioned on the frontline, each living backline ally reduces the damage Khasos receives by 22%.",
+  "furniture9description": "[9/9 Mythic Pieces] Within 5 seconds of Khasos using his Ultimate ability, the increased attribute effects of the abilities \"Concentration\" and \"Almighty Warrior\" shall become active, ignoring all prior requirements."
 }

@@ -27,10 +27,10 @@
   "sidescription": "A cavalry spear crafted from the jaw of a demon lord. Inflicts wicked wounds.",
   "siskillname": "Beast Rider",
   "siskilldescription": "The ability “Beast of Burden” will no longer drain energy for the first 5 seconds after each time it is used",
-  "siskill10unlocks": "*[+10 Unlocks] Only requires 500 energy to activate ultimate ability for the first time.",
-  "siskill20unlocks": "*[+20 Unlocks]Energy that is recovered when injured is increased by 50%.",
-  "siskill30unlocks": "*[+30 Unlocks] Only requires 200 energy to activate ultimate ability for the first time.",
-  "furniturename": "===Vanguards of Pain===",
-  "furniture3description": "*[3/9 Mythic Pieces] All allied heroes with the enemy half of the battlefield have their Attack Ratings increased by 20% and also receive 25% less damage from enemy attacks.",
-  "furniture9description": "*[9/9 Mythic Pieces] Allied heroes recover 100 energy points after every 3 seconds in the enemy's half of the battlefield."
+  "siskill10unlocks": "[+10 Unlocks] Only requires 500 energy to activate ultimate ability for the first time.",
+  "siskill20unlocks": "[+20 Unlocks]Energy that is recovered when injured is increased by 50%.",
+  "siskill30unlocks": "[+30 Unlocks] Only requires 200 energy to activate ultimate ability for the first time.",
+  "furniturename": "Vanguards of Pain",
+  "furniture3description": "[3/9 Mythic Pieces] All allied heroes with the enemy half of the battlefield have their Attack Ratings increased by 20% and also receive 25% less damage from enemy attacks.",
+  "furniture9description": "[9/9 Mythic Pieces] Allied heroes recover 100 energy points after every 3 seconds in the enemy's half of the battlefield."
 }
